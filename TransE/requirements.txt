@@ -1,0 +1,4 @@
+conda install pytorch
+conda install pandas
+conda install tqdm
+conda install datasets
